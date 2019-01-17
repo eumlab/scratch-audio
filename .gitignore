@@ -11,3 +11,7 @@ npm-*
 
 /dist.js
 /dist.js.map
+
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
